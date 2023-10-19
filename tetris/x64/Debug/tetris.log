@@ -1,0 +1,22 @@
+﻿  Source.cpp
+C:\Users\Kacper\Desktop\Duże Projekty c++\tetris\tetris\Source.cpp(1201,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\Kacper\Desktop\Duże Projekty c++\tetris\tetris\Source.cpp(1402,36): warning C4551: function call missing argument list
+C:\Users\Kacper\Desktop\Duże Projekty c++\tetris\tetris\Source.cpp(1417,36): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\Kacper\Desktop\Duże Projekty c++\tetris\tetris\Source.cpp(1418,17): warning C4551: function call missing argument list
+C:\Users\Kacper\Desktop\Duże Projekty c++\tetris\tetris\Source.cpp(1424,17): warning C4551: function call missing argument list
+C:\Users\Kacper\Desktop\Duże Projekty c++\tetris\tetris\Source.cpp(1429,36): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\Kacper\Desktop\Duże Projekty c++\tetris\tetris\Source.cpp(1430,17): warning C4551: function call missing argument list
+C:\Users\Kacper\Desktop\Duże Projekty c++\tetris\tetris\Source.cpp(1435,37): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\Kacper\Desktop\Duże Projekty c++\tetris\tetris\Source.cpp(1436,17): warning C4551: function call missing argument list
+C:\Users\Kacper\Desktop\Duże Projekty c++\tetris\tetris\Source.cpp(1438,36): warning C4551: function call missing argument list
+C:\Users\Kacper\Desktop\Duże Projekty c++\tetris\tetris\Source.cpp(1441,17): warning C4551: function call missing argument list
+C:\Users\Kacper\Desktop\Duże Projekty c++\tetris\tetris\Source.cpp(1455,36): warning C4551: function call missing argument list
+C:\Users\Kacper\Desktop\Duże Projekty c++\tetris\tetris\Source.cpp(931): warning C4715: 'najnizszy_klocek': not all control paths return a value
+C:\Users\Kacper\Desktop\Duże Projekty c++\tetris\tetris\Source.cpp(160): warning C4715: 'sprawdzanie_przesuwania_w_dol': not all control paths return a value
+C:\Users\Kacper\Desktop\Duże Projekty c++\tetris\tetris\Source.cpp(879): warning C4715: 'pojawianie': not all control paths return a value
+C:\Users\Kacper\Desktop\Duże Projekty c++\tetris\tetris\Source.cpp(983): warning C4715: 'klocek_najbardziej_do_prawo': not all control paths return a value
+C:\Users\Kacper\Desktop\Duże Projekty c++\tetris\tetris\Source.cpp(1035): warning C4715: 'klocek_najbardziej_do_lewo': not all control paths return a value
+C:\Users\Kacper\Desktop\Duże Projekty c++\tetris\tetris\Source.cpp(1045): warning C4715: 'wybieranie_nazwy': not all control paths return a value
+C:\Users\Kacper\Desktop\Duże Projekty c++\tetris\tetris\Source.cpp(1179): warning C4715: 'liczenie_wyniku': not all control paths return a value
+C:\Users\Kacper\Desktop\Duże Projekty c++\tetris\tetris\Source.cpp(1055): warning C4715: 'wybieranie_kierunku': not all control paths return a value
+  tetris.vcxproj -> C:\Users\Kacper\Desktop\Duże Projekty c++\tetris\x64\Debug\tetris.exe
